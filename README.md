@@ -1,7 +1,14 @@
-## Hello there! 👋
+# Greetings,  human! 👋
 
-I hope you are doing fine, I'm Dani.
+## I am Prieto, Dani Prieto.
 
+I hope you are doing fine X, here is what being me seems to be:
+
+  - 💃🏼 Spanish nationality, currently living in Paris, France 🥖.
+  - 🎓 Third-year student at EPITA (École Pour l'Informatique et les Techniques Avancées).
+  - ⚡ Fun fact: I am a wee bit crazy. Just a tiny bit.
+  - 🌱 I am currently working on a personal project. Details will soon be uploaded. Stay tuned!
+  - 📫 I suggest you to contact me through discord `@daniprou` and send a tomato 🍅 !!!
 <!--
 **DANIPROU/daniprou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
