@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there! 👋
+
+I hope you are doing fine, I'm Dani.
 
 <!--
 **DANIPROU/daniprou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
