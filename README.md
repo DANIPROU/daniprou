@@ -2,7 +2,7 @@
 
 ## I am Prieto, Dani Prieto.
 
-I hope you are doing fine X, here is what being me seems to be:
+I hope you are doing fine, here is what being me seems to be:
 
   - 💃🏼 Spanish nationality, currently living in Paris, France 🥖.
   - 🎓 Third-year student at EPITA (École Pour l'Informatique et les Techniques Avancées).
